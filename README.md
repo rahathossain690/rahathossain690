@@ -1,7 +1,7 @@
 ### Hello there 👋
 Have a nice day.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor](https://profile-counter.glitch.me/rahathossain690/count.svg)
 
 <!--
 **rahathossain690/rahathossain690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
