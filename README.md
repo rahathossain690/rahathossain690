@@ -1,6 +1,6 @@
 # Hello there 👋 
 ### Little things about me
-CS Undergrad | Web Dev | Competetive Programmer | Android Dev | Loves to code | Learner | Tech Enthusiast | Data Science Enthusiast ? Loves to work on Web
+CS Undergrad | Web Dev | Competetive Programmer | Android Dev | Loves to code | Learner | Tech Enthusiast | Data Science Enthusiast | Loves to work on Web
 
 ### Connect with me
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/rahathossain9678)
