@@ -9,10 +9,7 @@ CS Undergrad,  Web Developer, Competetive Programmer, Android Developer, Loves t
 [![Facebook](https://img.shields.io/badge/Facebook-brightgreen)](https://www.facebook.com/rahat.hossain.9678)
 
 
-<!--
--->
-
-# My Stack
+# My Stacks
 ```
 {
   "languages": ["Javascript", "Python", "C++/C", "Java", "Visual Basic"],
