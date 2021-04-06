@@ -1,3 +1,5 @@
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rahathossain690&&show_icons=true&theme=tokyonight&count_private=true" alt="Rahat's Github Stats"/>](https://github.com/rahathossain690)
+
 # Hello there 👋 
 ### Little things about me
 CS Undergrad,  Web Developer, Competetive Programmer, Android Developer, Loves to code, Quick learner, Tech Enthusiast, Data Science Enthusiast, Loves to work on Web.
