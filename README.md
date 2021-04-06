@@ -14,7 +14,7 @@ CS Undergrad,  Web Developer, Competetive Programmer, Android Developer, Loves t
 {
   "languages": ["Javascript", "Python", "C++/C", "Java", "Visual Basic"],
   "frameworks/libraries": {
-    "runtime_environment": "Nodejs",
+    "runtime_environment": ["Nodejs"],
     "backend": [ "Node/Express.js", "Flask"],
     "frontend": ["Reactjs"],
     "ui/ux": ["HTML", "CSS", "Bootstrap", "Tailwindcss", "Material-UI"]
