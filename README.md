@@ -2,7 +2,7 @@
 
 # Hello there 👋 
 ### Little things about me
-CS Undergrad,  Web Developer, Competetive Programmer, Android Developer, Loves to code, Quick learner, Tech Enthusiast, Data Science Enthusiast, Loves to work on Web.
+CS Undergrad,  Web Developer, Competetive Programmer, Android Developer, Loves to code, Quick learner, Tech Enthusiast, Data Science Enthusiast, prefers on Web.
 
 ### Connect with me
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/rahathossain9678)
