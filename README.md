@@ -12,14 +12,14 @@ CS Undergrad,  Web Developer, Competetive Programmer, Android Developer, Loves t
 # My Stacks
 ```
 {
-  "languages": ["Javascript", "Python", "C++/C", "Java", "Visual Basic", "C#"],
-  "frameworks/libraries": {
+  "language": ["Javascript", "Python", "C++/C", "Java", "Visual Basic", "C#"],
+  "framework/library": {
     "runtime_environment": ["Nodejs"],
     "backend": [ "Node/Express.js", "Flask"],
-    "frontend": ["Reactjs"],
-    "ui/ux": ["HTML", "CSS", "JQuery", "Bootstrap", "Tailwindcss", "Material-UI"]
+    "frontend": ["Reactjs", "JQuery", "HTML"],
+    "ui/ux": ["CSS", "Bootstrap", "Tailwindcss", "Material-UI"]
   },
-  "database":  ["MongoDB", "PostgreSQL", "MySQL", "SQLite", "Firebase realtime/Firestore"],
+  "database":  ["MongoDB", "PostgreSQL", "MySQL", "SQLite", "Firebase Realtime/Firestore"],
   "misc": ["Firebase", "Heroku"],
   "server/deployment": ["Digitalocean", "Heroku", "Firebase"]
   "tools": ["VS Code", "Sublime-text", "Android Studio", "Codeblocks"],
