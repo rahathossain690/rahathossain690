@@ -22,7 +22,7 @@ CS Undergrad,  Web Developer, Competetive Programmer, Android Developer, Loves t
   "database":  ["MongoDB", "PostgreSQL", "MySQL", "SQLite", "Firebase Realtime/Firestore"],
   "misc": ["Firebase", "Heroku"],
   "server/deployment": ["Digitalocean", "Heroku", "Firebase"]
-  "tools": ["VS Code", "Sublime-text", "Android Studio", "Codeblocks"],
+  "tools": ["Git", "VS Code", "Sublime-text", "Android Studio", "Codeblocks", "Jupyter notebook"],
   "container": ["Docker"]
 }
 
