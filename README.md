@@ -1,4 +1,3 @@
-[<img align="left" width="400" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rahathossain690" alt="Skill Chart"/>](https://github.com/rahathossain690)
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rahathossain690&&show_icons=true&theme=tokyonight&count_private=true" alt="Rahat's Github Stats"/>](https://github.com/rahathossain690)
 
 # Hello there 👋 
@@ -27,3 +26,5 @@ CS Undergrad,  Web Developer, Competetive Programmer, Android Developer, Loves t
   "container": ["Docker"]
 }
 ```
+# Skil Chart
+[<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rahathossain690" alt="Skill Chart"/>](https://github.com/rahathossain690)
