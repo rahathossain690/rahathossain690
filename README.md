@@ -28,5 +28,6 @@ CS Undergrad,  Web Developer, Competetive Programmer, Android Developer, Loves t
   "container": ["Docker"]
 }
 ```
-# Skil Chart
+<!-- # Skil Chart
 [<img height="400px" width="100%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rahathossain690" alt="Skill Chart"/>](https://github.com/rahathossain690)
+-->
