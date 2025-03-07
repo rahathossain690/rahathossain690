@@ -1,4 +1,4 @@
-<!--[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rahathossain690&&show_icons=true&theme=tokyonight&count_private=true" alt="Rahat's Github Stats"/>](https://github.com/rahathossain690)-->
+<!-- [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rahathossain690&&show_icons=true&theme=tokyonight&count_private=true" alt="Rahat's Github Stats"/>](https://github.com/rahathossain690) -->
 
 # Hello there 👋 
 
@@ -9,13 +9,13 @@
 * Generally Curious about everything (eg. Web Dev, Mobile Dev, Data Science, Tech, Life, Music, Philosophy, or anything that is not in academia)
 * Considers himself a quick learner, passionate
 
-<!-- CS Undergrad,  Web Developer, Competetive Programmer, Android Developer, Loves to code, Quick learner, Tech Enthusiast, Data Science Enthusiast, prefers working on Web. -->
 
 ### Connect with this guy
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/rahathossain9678)
 [![Facebook](https://img.shields.io/badge/Facebook-brightgreen)](https://www.facebook.com/rahat.hossain.9678)
 [![Facebook](https://img.shields.io/badge/CoderRank-yellowgreen)](https://profile.codersrank.io/user/rahathossain690/)
 
+<!-- CS Undergrad,  Web Developer, Competetive Programmer, Android Developer, Loves to code, Quick learner, Tech Enthusiast, Data Science Enthusiast, prefers working on Web. -->
 
 <!--
 # My Stacks
