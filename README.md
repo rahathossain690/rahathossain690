@@ -4,7 +4,7 @@
 
 ## This guy
 * Works as Software Engineer @ Therap (BD) LTD.
-* DU Grad (CSE), Ex- CP Guy, Hackathon winner
+* DU Grad (CSE), Hackathon winner, ex. Competetive Programmer
 * Loves to code (or atleast he thinks so)
 * Generally Curious about everything (eg. Web Dev, Mobile Dev, Data Science, Tech, Life, Music, Philosophy, or anything that is not in academia)
 * Considers himself a quick learner, passionate
